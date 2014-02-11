@@ -8,14 +8,14 @@
 * your server.
 */
 
-body{background-image:url("http://i.imgur.com/JkvYQJQ.png");background-repeat:no-repeat;background-position:center}
+body{background-image:url("http://i.imgur.com/mZtKfZM.jpg");background-repeat:no-repeat;background-position:center}
  
- .menugroup .button{background:#db0600}
+ .menugroup .button{background:#F2F057}
  
- .menugroup .button:hover{background:#ff8800}
+ .menugroup .button:hover{background:#B3B149}
 
 
 .userlist {
-border-left: 1px solid #ad5c00;
+border-left: 1px solid #EDA864;
 background: #f9c18b;
 }
